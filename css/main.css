@@ -24,9 +24,10 @@ a {
 }
 
 a:hover,
-a: focus{
+a:focus {
   color: #acc300;
 }
+
 .icon {
   position: relative;
   height: 8em;
